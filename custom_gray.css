@@ -1,35 +1,26 @@
-:root {
-  --body-background-color: var(--bg);
-  --body-text-color: var(--fg);
-
-  --card-background-color: var(--panel);
-  --nav-background-color: var(--panel);
-
-  --nav-border-bottom-color: var(--border);
-  --nav-current-border-bottom-color: var(--teal);
-
-  --card-border-color: var(--border);
-
-  --down-border-left-color: var(--red);
-  --down-background-color: var(--red);
-  --degraded-border-left-color: var(--orange);
-  --up-border-left-color: var(--green);
-
-  --tag-color: var(--bg); 
-  --tag-up-background-color: var(--green);
-  --tag-down-background-color: var(--red);
-  --tag-degraded-background-color: var(--orange);
-
-  --change-background-color: var(--orange);
-
-  --error-button-border-color: var(--blue);
-  --error-button-background-color: var(--blue);
-  --error-button-color: var(--hi);
-
-  --submit-button-border-color: var(--blue);
-  --submit-button-background-color: var(--blue);
-  --submit-button-color: var(--hi);
-
+:root{
+  --body-background-color: #333333;
+  --body-text-color: #cccccc;
+  --card-background-color: #333333;
+  --nav-background-color: #333333;
+  --nav-border-bottom-color: #666666;
+  --nav-current-border-bottom-color: #6699cc;
+  --card-border-color: #666666;
+  --down-border-left-color: #cc6699;
+  --down-background-color: #cc6699;
+  --degraded-border-left-color: #cc9966;
+  --up-border-left-color: #99cc66;
+  --tag-color: #333333;
+  --tag-up-background-color: #99cc66;
+  --tag-down-background-color: #cc6699;
+  --tag-degraded-background-color: #cc9966;
+  --change-background-color: #cc9966;
+  --error-button-border-color: #666666;
+  --error-button-background-color: #6699cc;
+  --error-button-color: #ffffff;
+  --submit-button-border-color: #666666;
+  --submit-button-background-color: #6699cc;
+  --submit-button-color: #ffffff;
   --graph-opacity: 1;
   --graph-filter: none;
 }
