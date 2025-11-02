@@ -22,7 +22,7 @@ sites:
     url: smtp.gmail.com
     port: 465
     check: "tcp-ping"
-  - name: Foundry: Play
+  - name: "Foundry: Play"
     url: https://play.shadowmote.com
 
 status-website:
