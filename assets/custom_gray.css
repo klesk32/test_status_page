@@ -1,0 +1,35 @@
+:root {
+  --body-background-color: var(--bg);
+  --body-text-color: var(--fg);
+
+  --card-background-color: var(--panel);
+  --nav-background-color: var(--panel);
+
+  --nav-border-bottom-color: var(--border);
+  --nav-current-border-bottom-color: var(--teal);
+
+  --card-border-color: var(--border);
+
+  --down-border-left-color: var(--red);
+  --down-background-color: var(--red);
+  --degraded-border-left-color: var(--orange);
+  --up-border-left-color: var(--green);
+
+  --tag-color: var(--bg); 
+  --tag-up-background-color: var(--green);
+  --tag-down-background-color: var(--red);
+  --tag-degraded-background-color: var(--orange);
+
+  --change-background-color: var(--orange);
+
+  --error-button-border-color: var(--blue);
+  --error-button-background-color: var(--blue);
+  --error-button-color: var(--hi);
+
+  --submit-button-border-color: var(--blue);
+  --submit-button-background-color: var(--blue);
+  --submit-button-color: var(--hi);
+
+  --graph-opacity: 1;
+  --graph-filter: none;
+}
