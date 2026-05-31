@@ -45,9 +45,9 @@
     "url": "$FOUNDRY_QUEST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-quest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +56,9 @@
     "timeWeek": 336,
     "timeMonth": 293,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-31": 0
+    }
   },
   {
     "name": "Cachenote Hub",
