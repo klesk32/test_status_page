@@ -27,19 +27,19 @@
     "url": "$FOUNDRY_PLAY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-play",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 254,
-    "timeDay": 439,
-    "timeWeek": 312,
-    "timeMonth": 306,
-    "timeYear": 254,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "87.50%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.94%",
+    "time": 264,
+    "timeDay": 1513,
+    "timeWeek": 596,
+    "timeMonth": 377,
+    "timeYear": 264,
     "dailyMinutesDown": {
-      "2026-05-31": 10
+      "2026-05-31": 180
     }
   },
   {
@@ -48,18 +48,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-quest",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "94.83%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.92%",
+    "uptimeDay": "82.42%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.92%",
     "time": 227,
     "timeDay": 372,
     "timeWeek": 336,
     "timeMonth": 293,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2026-05-31": 74
+      "2026-05-31": 253
     }
   },
   {
@@ -68,18 +68,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cachenote-hub",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "87.58%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.94%",
     "time": 433,
     "timeDay": 549,
     "timeWeek": 497,
     "timeMonth": 490,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2026-05-31": 0
+      "2026-05-31": 179
     }
   }
 ]
