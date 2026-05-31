@@ -1,7 +1,7 @@
 url: $HUB_CACHENOTE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-05-31T20:12:18.859Z
+status: up
+code: 200
+responseTime: 446
+lastUpdated: 2026-05-31T23:57:01.822Z
 startTime: 2025-11-02T17:16:59.830Z
 generator: Upptime <https://github.com/upptime/upptime>
