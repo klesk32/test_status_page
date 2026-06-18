@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 133,
-    "timeDay": 61,
-    "timeWeek": 71,
-    "timeMonth": 75,
+    "timeDay": 96,
+    "timeWeek": 75,
+    "timeMonth": 76,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2025-12-13": 39,
@@ -28,15 +28,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-play",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 268,
-    "timeDay": 263,
-    "timeWeek": 305,
-    "timeMonth": 398,
+    "timeDay": 204,
+    "timeWeek": 279,
+    "timeMonth": 397,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2026-05-31": 180
@@ -54,9 +54,9 @@
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.91%",
     "time": 232,
-    "timeDay": 256,
-    "timeWeek": 280,
-    "timeMonth": 321,
+    "timeDay": 103,
+    "timeWeek": 242,
+    "timeMonth": 315,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2026-05-31": 299
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.93%",
-    "time": 436,
-    "timeDay": 396,
-    "timeWeek": 498,
-    "timeMonth": 495,
-    "timeYear": 436,
+    "time": 435,
+    "timeDay": 278,
+    "timeWeek": 452,
+    "timeMonth": 490,
+    "timeYear": 435,
     "dailyMinutesDown": {
       "2026-05-31": 225
     }
