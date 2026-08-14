@@ -11,8 +11,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 124,
-    "timeDay": 153,
-    "timeWeek": 132,
+    "timeDay": 80,
+    "timeWeek": 127,
     "timeMonth": 94,
     "timeYear": 124,
     "dailyMinutesDown": {
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 279,
-    "timeDay": 380,
-    "timeWeek": 402,
-    "timeMonth": 364,
+    "timeDay": 217,
+    "timeWeek": 379,
+    "timeMonth": 358,
     "timeYear": 279,
     "dailyMinutesDown": {
       "2026-05-31": 180
@@ -55,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 248,
-    "timeDay": 264,
-    "timeWeek": 361,
-    "timeMonth": 339,
+    "timeDay": 238,
+    "timeWeek": 346,
+    "timeMonth": 333,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2026-05-31": 299
@@ -69,15 +69,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cachenote-hub",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 453,
-    "timeDay": 510,
-    "timeWeek": 585,
-    "timeMonth": 585,
+    "timeDay": 346,
+    "timeWeek": 555,
+    "timeMonth": 572,
     "timeYear": 453,
     "dailyMinutesDown": {
       "2026-05-31": 225
