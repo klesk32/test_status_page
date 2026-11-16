@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 118,
-    "timeDay": 113,
-    "timeWeek": 109,
-    "timeMonth": 91,
+    "timeDay": 82,
+    "timeWeek": 100,
+    "timeMonth": 90,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2025-12-13": 39,
@@ -36,10 +36,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 333,
-    "timeDay": 199,
-    "timeWeek": 495,
+    "timeDay": 389,
+    "timeWeek": 477,
     "timeMonth": 498,
-    "timeYear": 340,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2026-05-31": 180
     }
@@ -50,15 +50,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-quest",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 274,
-    "timeDay": 148,
-    "timeWeek": 336,
-    "timeMonth": 370,
+    "timeDay": 380,
+    "timeWeek": 341,
+    "timeMonth": 373,
     "timeYear": 279,
     "dailyMinutesDown": {
       "2026-05-31": 299
@@ -76,10 +76,10 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.93%",
     "time": 474,
-    "timeDay": 297,
-    "timeWeek": 500,
+    "timeDay": 439,
+    "timeWeek": 483,
     "timeMonth": 485,
-    "timeYear": 479,
+    "timeYear": 480,
     "dailyMinutesDown": {
       "2026-05-31": 225,
       "2026-10-24": 139
